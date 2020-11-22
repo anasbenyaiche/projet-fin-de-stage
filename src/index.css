@@ -1,0 +1,28 @@
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: #ff8000;
+
+}
+header {
+  grid-area: header;
+  background-color: #203040;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem;
+  display: flex;
+  min-height: 7vh;
+ justify-content: space-around;
+
+}
+header a {
+  color: #ffffff;
+  text-decoration: none;
+  padding: 0px 20px;
+  font-size: 1.4em;
+  color: #ff8000;
+
+}
